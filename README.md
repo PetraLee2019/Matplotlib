@@ -1,27 +1,26 @@
 # The Power of Plots
-![Alt Tag]()
-
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Pyber.png?raw=true)
 ## Pyber - Background
 The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
 
 You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
-
 ## Ojbectives
 - Combine/Merge the two dataframes into a single dataset based on the cities they share
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Merged-Dataframe_Dataset.png?raw=true)
 Build a Bubble Plot that showcases the relationship between four key variables:
 - Average Fare ($) Per City
 - Total Number of Rides Per City
 - Total Number of Drivers Per City
 - City Type (Urban, Suburban, Rural)
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Pyber_Ridesharing_Data.png?raw=true)
 
 In addition, produce the following three Pie Charts:
 #### % of Total Fares by City Type
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Ride_Pie_Fare.png?raw=true)
 #### % of Total Rides by City Type
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Ride_Pie_Ride.png?raw=true)
 #### % of Total Drivers by City Type
-![Alt Tag]()
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Ride_Pie_Driver.png?raw=true)
 
 ## Considerations
 Stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing the plot and pie charts
