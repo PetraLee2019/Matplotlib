@@ -7,6 +7,7 @@ You've since been given access to the company's complete recordset of rides. Thi
 ## Ojbectives
 - Combine/Merge the two dataframes into a single dataset based on the cities they share
 ![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Merged-Dataframe_Dataset.png?raw=true)
+
 Build a Bubble Plot that showcases the relationship between four key variables:
 - Average Fare ($) Per City
 - Total Number of Rides Per City
