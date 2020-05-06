@@ -1,11 +1,11 @@
-# The Power of Plots
-![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Pyber.png?raw=true)
-## Pyber - Background
-The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
+# Ride-Sharing-Data-Analysis-
 
-You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Pyber.png?raw=true)
+## Background
+The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. You'll be expected to offer data-backed guidance on new opportunities for market differentiation.
+
 ## Ojbectives
-Combine/Merge the two dataframes into a single dataset based on the cities they share
+Combine/Merge the two dataframes into a single dataset based on the cities they share for accurate data analysis
 ![Alt Tag](https://github.com/PetraLee2019/The-Power-of-Plots/blob/master/Images/Merged-Dataframe_Dataset.png?raw=true)
 
 Build a Bubble Plot that showcases the relationship between four key variables:
